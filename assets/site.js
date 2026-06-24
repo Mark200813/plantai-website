@@ -1,4 +1,4 @@
-/* PlantAI — shared site script */
+/* SproutAI — shared site script */
 (function () {
   'use strict';
 
